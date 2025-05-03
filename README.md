@@ -23,6 +23,26 @@ The book is continuously improved.
 
 
 
+
+## Editors' Guides
+
+The editor files is using [LibreOffice](https://www.libreoffice.org/) with
+multi section files strategy located inside `LibreWriter/` directory.
+
+The main file `LibreWriter/en.odt` is just a framework integrations from
+all the sections. It is reponsible for generating the PDF. Only changes
+available here are those meta pages (e.g. cover, table of contents, etc).
+
+The contents editing are located inside each section directory
+(e.g. `LibreWriter/00-01-00_Abstract/en.odt` for `Abstract` section). You
+should edit here and the main file will pull from it.
+
+When exporting to PDF, please make sure you save the main file after its
+updates.
+
+
+
+
 ## License
 This article is licensed under [Creative Commons](https://creativecommons.org/)
 [Attribution-NoDerivatives 4.0 International License](LICENSE.txt).
