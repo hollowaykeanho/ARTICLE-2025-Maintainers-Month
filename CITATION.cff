@@ -1,0 +1,42 @@
+cff-version: "1.2.0"
+type: "software"
+date-released: "2025-05-04"
+title: "2025 Maintainers Month - My Side of Story"
+version: "0.0.1"
+license: "CC-BY-ND-4.0"
+repository: "https://github.com/hollowaykeanho/ARTICLE-2025-Maintainers-Month"
+repository-code: "https://github.com/hollowaykeanho/ARTICLE-2025-Maintainers-Month"
+repository-artifact: "https://github.com/hollowaykeanho/ARTICLE-2025-Maintainers-Month"
+url: "https://github.com/hollowaykeanho/ARTICLE-2025-Maintainers-Month"
+contact:
+  - affiliation: "(Holloway) Chew, Kean Ho"
+    email: "hello@hollowaykeanho.com"
+    website: "https://www.hollowaykeanho.com"
+abstract: |-
+  Loves using your Open Source and Source Available software? Well, it is
+  May 2025 which is the Open Source Initiative's Maintainer Month! Time to
+  give these neglected but critically important folks a shout out of
+  appreciations. Special thanks to Nick Vidal for giving the opportunity of
+  this collaborations.
+
+  I'm (Holloway) Chew, Kean Ho – a maintainer stewarding some fun applications,
+  some serious tools, and my own legal licenses since 2023.
+
+  Herein lies my story about being a growing maintainer.
+message: |-
+  Please cite and reference this repository accordingly.
+authors:
+  - given-names: "Kean Ho"
+    family-names: "Chew"
+    email: "me@hollowaykeanho.com"
+    affiliation: "Independent"
+    orcid: "https://orcid.org/0000-0003-4202-4863"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.15334597"
+    description: "General & Latest"
+keywords:
+  - "2025 maintainers month"
+  - "open source initiatives"
+  - "osi"
+  - "collaborations"
