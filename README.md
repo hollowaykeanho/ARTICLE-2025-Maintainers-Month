@@ -2,10 +2,11 @@
 
 [![HollowayKeanHo](src/icons/animated-banner_1200x100.svg)](#)
 
-Loves using your Open Source and Source Available software? Well, it is May
-2025 which is the Open Source Initiative's Maintainer Month! Time to give
-these neglected but critically important folks a shout out of appreciations.
-Special thanks to Nick Vidal for giving the opportunity of this collaborations.
+Love using your Open Source and Source Available software? Well, it is
+May 2025 which is the Open Source Initiative's Maintainer Month! Time to
+give these neglected but critically important folks a shout out of
+appreciation. Special thanks to Nick Vidal for giving the opportunity of
+this collaboration.
 
 I'm (Holloway) Chew, Kean Ho – a maintainer stewarding some fun applications,
 some serious tools, and my own legal licenses since 2023.
