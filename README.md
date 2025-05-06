@@ -14,9 +14,7 @@ about being a growing maintainer.
 This article's writing and artworks are strictly human-created with no
 Artificial Intelligence's involvement.
 
-> **SIDE-NOTE**:
->
-> PDF book is now available for free at: https://doi.org/10.5281/zenodo.15334597
+> **SIDE-NOTE**: PDF book is now available for free at: https://doi.org/10.5281/zenodo.15334597
 
 
 
@@ -40,8 +38,10 @@ Under the following terms:
                   license, and indicate if changes were made . You may do so in
                   any reasonable manner, but not in any way that suggests the
                   licensor endorses you or your use.
+
 **NoDerivatives** — If you remix, transform, or build upon the material, you
                     may not distribute the modified material.
+
 **No additional restrictions** — You may not apply legal terms or technological
                                  measures that legally restrict others from
                                  doing anything the license permits.
